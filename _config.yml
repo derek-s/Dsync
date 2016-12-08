@@ -1,0 +1,13 @@
+# Dsync Config
+# 配置方法请参考 readme.txt
+
+
+host: 192.168.10.105
+user: root
+passwd: 123a+-
+remotedir: /home/test/
+localdir: /home/derek/Code/test/
+
+
+#以root登陆时以下配置起作用
+chown: www:www
